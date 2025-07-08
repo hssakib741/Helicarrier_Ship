@@ -30,6 +30,14 @@ This C++ OpenGL project is a **dynamic 2D animated scene** featuring a **futuris
 
 ---
 
+## 📸 Screenshots
+
+### 🌞 Day Mode
+![Day Mode](Plane Landed.png)
+
+### 🌙 Night Mode
+![Night Mode](Night.png)
+
 ## 🧪 Controls
 
 | Key | Action                          |
